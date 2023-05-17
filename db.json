@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "productsB",
+      "price": 10000000
+    },
+    {
+      "id": 3,
+      "name": "ẻdfgfggh",
+      "price": "222100002"
+    },
+    {
+      "id": 4,
+      "name": "productsD12323",
+      "price": "30000000"
+    },
+    {
+      "name": "Duong Hop12313",
+      "id": 7,
+      "price": "200000"
+    },
+    {
+      "name": "Duong Hop23",
+      "price": "123456",
+      "id": 8
+    }
+  ]
+}
